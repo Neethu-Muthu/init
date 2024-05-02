@@ -1,0 +1,2 @@
+# init
+git basic initialization
